@@ -1,5 +1,5 @@
-# SQ016 Weekly Tasks
-### Week 1 - Task
+# BANK OPERATION (OOP MODEL)
+<!-- ### Week 1 - Task -->
 
 ## Introduction :
 This task is aimed at evaluating your understanding and implementation of OOP in your project.
