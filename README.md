@@ -1,5 +1,5 @@
-# SQ016 Weekly Tasks
-### Week 1 - Task
+# BANK OPERATION (OOP MODEL)
+<!-- ### Week 1 - Task -->
 
 ## Introduction :
 This task is aimed at evaluating your understanding and implementation of OOP in your project.
@@ -9,7 +9,7 @@ Your task is to create a console application that models a Bank and its operatio
 
 The result should be displayed in a tabular form as shown below: 
 
-|-------------------|-------------------------------|--------------------------|---------------------|---------|
+|-------------------|-------------------------------|--------------------------|---------------------|----------|
 | FULL NAME  | ACCOUNT NUMBER  | ACCOUNT TYPE | AMOUNT BAL | NOTE |
 |-------------------|-------------------------------|--------------------------|---------------------|----------|
 | John Doe       |        0987654321         |          Savings        |      10,000        |   Gift   | |--------------------------------------------------------------------------------------------------------------|
