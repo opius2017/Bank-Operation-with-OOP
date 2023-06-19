@@ -28,6 +28,11 @@ namespace Bank
                     throw new ArgumentException("First name must not exceed 20 characters");
                 }
 
+                if (char.IsLower(value[0]))
+                {
+                    throw new ArgumentException("First name must not start with lowercase");
+                }
+
                 if (char.IsDigit(value[0]))
                 {
                     throw new ArgumentException("First name must not start with a number");
